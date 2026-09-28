@@ -1,0 +1,19 @@
+{
+  "name": "devconnect",
+  "version": "1.0.0",
+  "description": "A networking platform that connects developers.",
+  "keywords": [
+    "Backend",
+    "Node.js",
+    "MongoDB",
+    "JsonWebToken",
+    "Learning-Backend-Development"
+  ],
+  "license": "ISC",
+  "author": "Rishabh Bhartiya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
